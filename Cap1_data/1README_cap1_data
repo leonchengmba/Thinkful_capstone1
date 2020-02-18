@@ -1,12 +1,17 @@
 Datasets
 1. House Market Data by Redfin
 	a. https://www.redfin.com/blog/data-center/ 
-	b. Redfin 2010-2019 Median Sales by Zip.cvsv
+	b. Redfin 2010-2019 Median Sales by Zip.csv
+    c. home_sales.csv [2017-2019 Redfin Median Sales by Zip.csv] 
 2. Income Data by IRS
 	a. https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
 	b. 2017 IRS income by zipcode_cap1parse
 	c. 2017 IRS Income Documentation.pdf
 3. Rent Data by HUD.gov
 	a. https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#2017_query
-	b. FY2017_hypothetical_safmrs.csv
-	c. HUDS Rental Survey-Spreadsheet-Explanation Documentation
+    b. HUDS Rental Survey-Spreadsheet-Explanation Documentation
+    c. FY2017_hypothetical_safmrs.csv
+    d. fy2018_advisory_safmrs_revised_feb_2018.csv
+    e. fy2019_safmrs_rev.csv
+	f. market_rent.csv [2017-2019 HUDS.gov safrms]
+        
